@@ -1,7 +1,8 @@
 {
  "display": "fullscreen",
  "start_url": "index.htm",
- "name": "PAINEIRAS CERQUILHO",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF"
+ "name": "PAINEIRAS CERQUILHO"
 }
