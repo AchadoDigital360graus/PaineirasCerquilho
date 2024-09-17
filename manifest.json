@@ -1,6 +1,6 @@
 {
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
+ "name": "RESIDENCIAL PAINEIRAS",
  "icons": [
   {
    "type": "image/png",
@@ -38,8 +38,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
+ "theme_color": "#000000",
  "start_url": "index.htm",
- "name": "RESIDENCIAL PAINEIRAS",
+ "background_color": "#000000",
  "description": "Cerquilho"
 }
