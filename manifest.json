@@ -38,8 +38,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#000000",
+ "theme_color": "#CC6600",
  "start_url": "index.htm",
- "background_color": "#000000",
+ "background_color": "#CC6600",
  "description": "Cerquilho"
 }
